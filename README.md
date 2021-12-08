@@ -1,6 +1,6 @@
-# Japanese-Food-Blog-Web-App
+# indian-Food-Blog-Web-App
 
-This repo contains the source code for the website J Food Blogger. It is a blog web app that aims to allow people to share their favourite japanese food experiences.
+This repo contains the source code for the website I Food Blogger. It is a blog web app that aims to allow people to share their favourite indian food experiences.
 
 ## Features
 - Personal profile.  
